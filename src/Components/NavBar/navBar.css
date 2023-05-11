@@ -1,0 +1,12 @@
+.navBar{
+    background-color: rgb(249, 243, 235);
+    height:30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.loginButton{
+
+    cursor: pointer;;
+    background-color: blue;
+}

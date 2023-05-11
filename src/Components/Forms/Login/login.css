@@ -1,0 +1,12 @@
+.myTextInput{
+    width: 100%;
+}
+
+.myButtonDiv{
+    display: flex;
+    justify-content: flex-end;
+}
+.loginFormHeader{
+    font-size: 160px;
+    color: blue;
+}
